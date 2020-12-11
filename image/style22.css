@@ -1,0 +1,24 @@
+#myid1{
+width:120;
+height:120;
+background-color:red;
+
+border-radius:590px;  
+  animation-name:animate;
+  animation-duration:3s;
+  animation-iteration-count:1000; 
+}
+
+@keyframes animate{
+  
+  form{background-color:red;
+  }
+  to{background-color:blue;
+    border-radius:0px;
+    margin-left:1200;
+    visibility: hidden; 
+  }
+  
+  
+  
+}

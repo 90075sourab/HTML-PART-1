@@ -1,0 +1,21 @@
+
+body{
+
+background-color:pink;
+
+}
+
+
+.mydiv2 > p{
+color:blue;
+}
+.mydiv1 > .mydiv3 p{
+
+color:green;
+}
+p{
+color:red;
+}
+.mydiv > .mydiv1 > p{
+color:purple;
+}

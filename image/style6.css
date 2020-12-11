@@ -1,0 +1,130 @@
+body{
+
+background-color: brown;
+
+
+}
+.he1{
+  color: burlywood;
+  font-family:bodoni mt black;
+  font-size:29;
+  
+}
+h1{
+text-align:center;
+  font-family:forte;
+}
+h2{
+text-align:center;
+}
+.A{
+font-size:25;
+text-align:center;
+color:pink;
+
+}
+.B{
+text-align:center;
+font-size:18;
+background-color:orange;
+color:red;
+}
+.pa1{
+
+color:aqua;
+font-size:18;
+
+}.he2{
+  color:pink;
+  font-family:berlin sans fb demi;
+  font-size:29;
+  
+  
+}
+.pa2{
+
+color:aquamarine;
+font-size:18;
+
+}
+.he3{
+  color: aquamarine;
+  font-family:berlin sans fb demi;
+  font-size:29;
+  margin-top:200;
+  
+}
+.he4{
+  color: cadetblue;
+  font-family:berlin sans fb demi;
+  font-size:29;
+   margin-top:190;
+  
+}
+.he5{
+  color: aquamarine;
+  font-family:berlin sans fb demi;
+  font-size:29;
+   margin-top:150;
+  
+}
+.he6{
+  color:pink;
+  font-family:berlin sans fb demi;
+  font-size:29;
+   margin-top:100;
+  
+}
+.pa3{
+
+color: azure;
+font-size:18;
+
+}
+.pa4{
+
+color: blanchedalmond;
+font-size:18;
+
+}
+.pa5{
+
+color: burlywood;
+font-size:18;
+
+}
+.pa6{
+
+color:aquamarine;
+font-size:18;
+
+}
+
+.image1{
+  margin-left:550;
+  
+}
+
+
+.image2{
+  margin-right:550;
+  margin-top:100;
+  
+}
+
+.image3{
+ margin-right:570;
+  margin-top:100;
+  
+}
+
+.image4{
+  margin-right:590;
+  
+}
+.image5{
+   margin-right:530;
+}
+.image6{
+   margin-right:590;
+}

@@ -1,0 +1,57 @@
+.mydiv1{
+width:230;
+height:200;
+background-color:orange;
+  cursor: pointer; 
+  transition:background 5s ease,height 5s ease,width 5s ease;
+}
+
+
+
+
+.mydiv1:hover{
+ width:430;
+height:400; 
+  
+  background-color:magenta;
+   
+}
+.mydiv2{
+width:230;
+height:200;
+background-color:yellow;
+cursor:pointer;
+transition:all 6s ease;
+}
+
+.mydiv2:hover{
+width:230;
+height:200;
+background-color:green;
+margin-left:100;
+}
+.mydiv3{
+  
+  width:230;
+  height:200;
+  background-color: cadetblue;
+  cursor:pointer;
+  transition:all 6s ease;
+  padding-top:20;
+  padding-left:50; 
+  
+  
+}
+.mydiv3:hover{
+ width:230;
+  height:200;
+  background-color: brown;
+  transform:rotateX(52deg);
+  
+}
+p{
+  font-size:46;
+  margin-top:40; 
+  
+  
+}

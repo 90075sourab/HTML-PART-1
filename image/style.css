@@ -1,0 +1,17 @@
+p{
+color:green;
+font-weight:bold;
+font-size:22;
+font-style:normal;
+}
+body{
+
+background-color:coral;
+background-image:url("bird.jpg");
+}
+h1{
+color:yellow;
+font-weight:bold;
+font-size:50;
+font-style:normal;
+}

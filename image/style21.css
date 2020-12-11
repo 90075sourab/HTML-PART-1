@@ -1,0 +1,106 @@
+h1{
+
+background-color:gold;
+color:green;
+  
+}
+
+
+.mydiv1{
+height:300;
+width:400;
+background-image:url("bird.jpg");
+float:left;
+margin-right:15;   
+margin-left:39;
+cursor:pointer;
+  transition-delay:5s;
+
+}
+
+.mydiv2{
+height:300;
+width:400;
+background-color:khaki;
+float:left;float:left;float:left;float:left;
+margin-right:15;
+cursor:pointer; 
+transition:background 6s ease,height 5s ease,width 5s ease;  
+}
+.mydiv3{
+height:300;
+width:400;
+background-color: blueviolet;
+float:left;float:left;float:left;float:left;
+margin-right:15;
+cursor:pointer;
+  transition-delay:5; 
+transition:all 5s ease 5s;  
+}
+.mydiv4{
+height:300;
+width:400;
+background-color:floralwhite ;
+float:left;float:left;float:left;
+margin-right:15;
+margin-top:20;
+margin-left:39;
+cursor:pointer;
+transition:all 5s ease 1s;  
+}
+.mydiv5{
+height:300;
+width:400;
+background-color: wheat;  
+float:left;float:left;
+margin-right:15;
+margin-top:20;
+cursor:pointer;
+transition:all 50s ease;  
+}
+.mydiv6{
+height:300;
+width:400;
+background-color:lightgreen;
+float:left;
+margin-right:15; 
+margin-top:20;
+cursor:pointer;
+transition:all 5s ease;  
+}
+
+.mydiv1:hover{
+ background-image:url("ship.jpg");  
+  
+}
+.mydiv2:hover{
+  
+  background-color:cyan; 
+  height:500;
+  width:250;
+}
+
+.mydiv3:hover{
+ background-color:slategray; 
+ transform:rotate(90deg); 
+
+}
+.mydiv4:hover{
+ background-color:slategray; 
+ transform:rotateX(180deg); 
+
+}
+
+.mydiv5:hover{
+ background-color:mediumturquoise; 
+ transform:rotatey(5614deg); 
+
+}
+.mydiv6:hover{
+  transform:scale(.5,.5); 
+  
+  
+  
+}
+
+

@@ -1,0 +1,89 @@
+.mydiv1{
+
+width:390;
+height:350;
+margin-left:300;
+float:left;
+margin-top:90;
+margin-bottom:350;
+background-color:goldenrod;
+padding-bottom:100; 
+
+}
+h1
+{
+
+text-align:right; 
+  margin-right:350;
+  margin-left:289;
+  margin-bottom:80;
+  background-color: gray;
+  padding-right:50;
+  color: azure;
+  
+
+}
+.mydiva{
+width:330;
+height:200;
+background-image:url("thunder.jpg");
+background-size:400 300;
+  margin-left:30;
+margin-top:50;
+float:left;
+}
+
+audio{
+width:350;
+height:45;
+margin-left:15;
+margin-top:50;
+  
+}
+
+.snames{
+font-size:45;
+  text-alig
+}
+.head{
+font-family:forte;
+font-size:50;
+
+}
+
+p{
+color:blueviolet;
+font-size:18;
+background-color:mediumaquamarine;
+  text-align: center; 
+
+}
+.nama{
+color:red;
+  background-color: cadetblue;
+  font-size:45;
+  text-align:center;
+  margin-left:20;
+  margin-right:30; 
+  margin-top:; 
+  
+
+
+}
+.mydivm{
+width:1500;
+height:600;
+background-color:seagreen;
+  padding-top:10; 
+}
+.sname{
+width:350;
+height:250;
+background-color: bisque;
+   margin-left:700;
+  margin-top:200;
+  align-content: inherit;
+  position: initial;
+  padding-top:10;
+   
+}
